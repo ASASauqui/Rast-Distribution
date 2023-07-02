@@ -1,7 +1,7 @@
 <h1><b>Rast Distribution</b></h1>
 
 <div align="center">
-    <img width="50%" src="https://github.com/ASASauqui/Car-license-plate-detector-and-reader/blob/main/Readme%20Images/methodology/methodology_8.png?raw=true" alt="Rast" />
+    <img width="70%" src="https://github.com/ASASauqui/Rast-Distribution/blob/main/images/rast.png?raw=true" alt="Rast" />
     <p>Rast visualization.</p>
 </div><br>
 
